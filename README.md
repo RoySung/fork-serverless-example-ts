@@ -1,0 +1,1 @@
+This is from [serverless-webpack](https://github.com/serverless-heaven/serverless-webpack) example
